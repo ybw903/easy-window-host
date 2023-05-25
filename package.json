@@ -7,6 +7,10 @@
     "host",
     "commander"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ybw903/easy-window-host"
+  },
   "main": "index.js",
   "scripts": {
     "test": "node ./index.js"
