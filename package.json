@@ -12,6 +12,9 @@
     "url": "https://github.com/ybw903/easy-window-host"
   },
   "main": "index.js",
+  "bin": {
+    "easy-window-host": "./index.js"
+  },
   "scripts": {
     "test": "node ./index.js"
   },
