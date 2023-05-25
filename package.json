@@ -1,0 +1,20 @@
+{
+  "name": "easy-window-host",
+  "version": "0.1.0",
+  "description": "This CLI makes changing windows host easy.",
+  "keywords": [
+    "windows",
+    "host",
+    "commander"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "figlet": "^1.6.0",
+    "prompts": "^2.4.2"
+  }
+}
