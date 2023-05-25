@@ -1,6 +1,6 @@
 {
   "name": "easy-window-host",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This CLI makes changing windows host easy.",
   "keywords": [
     "windows",
